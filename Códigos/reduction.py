@@ -11,7 +11,7 @@
     
 #    [["x2", True], ["x3", True], ["x4", False]]
     
-#    ])
+#    ]
 
 # Os elementos da lista são as cláusulas;
 # Os elementos que compõem as cláusulas são os literais;

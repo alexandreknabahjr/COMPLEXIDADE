@@ -29,10 +29,10 @@ def satToClique(satInstance):
         
         for j in range(i + 1, len(satInstance)):
             
-            # Percore os elementos da cláusula
+            # Percore os elementos das cláusulas i
             for k in range(0, 3):
                 
-                # Percore 
+                # Percore os elementos das cláusulas j
                 for l in range(0, 3):
                     
                     # Se os nomes dos literais são diferentes:

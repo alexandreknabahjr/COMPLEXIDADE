@@ -14,8 +14,8 @@
 #    ])
 
 # Os elementos da lista são as cláusulas;
-# Os elementos que compõem as cláusulas são os literais
-# Os elementos que compõem os literais são seus nomes e seus valores
+# Os elementos que compõem as cláusulas são os literais;
+# Os elementos que compõem os literais são seus nomes e seus valores.
 
 def satToClique(satInstance):
     
